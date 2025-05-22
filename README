@@ -1,0 +1,40 @@
+# Sistema de Cadastro de Clientes - Java Swing + MySQL
+
+Este projeto consiste em um sistema de cadastro de clientes, desenvolvido como trabalho acadêmico. O sistema possui interface gráfica construída com Java Swing e realiza operações de cadastro, leitura, atualização e exclusão (CRUD) com persistência de dados em um banco de dados MySQL via JDBC.
+
+---
+
+## 📚 Sobre o Projeto
+
+O objetivo é aplicar conceitos de:
+- Programação Orientada a Objetos com Java
+- Conexão com banco de dados MySQL via JDBC
+- Interface gráfica com Java Swing
+- Operações CRUD completas
+
+---
+
+## 🎯 Funcionalidades
+
+- Cadastro de clientes com **nome**, **documento** e **e-mail**
+- Visualização de clientes cadastrados em tempo real
+- Edição e exclusão de registros existentes
+- Interface gráfica com:
+  - Campos de texto para entrada de dados
+  - Botões para Cadastrar, Listar, Atualizar e Excluir
+  - Área de exibição (`JTextArea`) para mostrar os dados do banco
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Java (JDK 8+)
+- Java Swing (interface gráfica)
+- JDBC (para conexão com banco)
+- MySQL (armazenamento dos dados)
+- VSCode (IDE sugerida)
+- MySQL Workbench ou terminal SQL (para gerenciar o banco)
+
+---
+
+## 🗂️ Estrutura do Projeto
